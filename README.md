@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subhakanta Pothal</h1>
 <h3 align="center">A Software developer searching for a growing software Organization that will offer better career and good opportunity to upgrade my skills.</h3>
 
-- 🔭 I’m currently working on **Partner Integration Service**
+- 🔭 I’m currently working on **Synnove system pvt ltd**
 
 - 🌱 I’m currently learning **Frameworks**
 
+- 👯 I’m looking to collaborate on **Partner Integration Service**
+
 - 📫 How to reach me **subhakantapothal6@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/subhakanta6/subhakanta6/blob/main/My%20resume.pdf](https://github.com/subhakanta6/subhakanta6/blob/main/My%20resume.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
